@@ -1,1 +1,11 @@
-{ "dbnya": [] }
+{
+  "dbnya": [
+    {
+      "telegram_id": "8431571090",
+      "username": "dilan",
+      "role": "MODERATOR",
+      "key": "49AJ5B",
+      "created_at": 1770300479854
+    }
+  ]
+}
