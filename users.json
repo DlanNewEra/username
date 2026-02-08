@@ -13,6 +13,13 @@
       "role": "RESELLER",
       "key": "NRXTHD",
       "created_at": 1770553810005
+    },
+    {
+      "telegram_id": "8002467115",
+      "username": "kiw",
+      "role": "RESELLER",
+      "key": "Q4SHXC",
+      "created_at": 1770554492378
     }
   ]
 }
