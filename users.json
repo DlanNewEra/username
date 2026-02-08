@@ -6,6 +6,13 @@
       "role": "MODERATOR",
       "key": "49AJ5B",
       "created_at": 1770300479854
+    },
+    {
+      "telegram_id": "7194754042",
+      "username": "boztt",
+      "role": "RESELLER",
+      "key": "NRXTHD",
+      "created_at": 1770553810005
     }
   ]
 }
